@@ -79,6 +79,16 @@ AI News Reporter/
 
 ---
 
+## App Images
+
+![img 1](screenshots/ainr_1.png)
+
+![img 2](screenshots/ainr_2.png)
+
+![img 3](screenshots/ainr_3.png)
+
+---
+
 ## Credits
 - [Open-Meteo](https://open-meteo.com/) for free weather data
 - [Nominatim (OpenStreetMap)](https://nominatim.org/) for geocoding
